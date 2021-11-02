@@ -16,4 +16,10 @@
 /* BODY LAYOUT AND STYLES */
 body {
     font-family: "Kumbh Sans", sans-serif;
+    background-color: var(--color-dark-cyan);
+    background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top -40vh left -10vw, bottom -50vh right -10vw;
+    height: 100vh;
 }
