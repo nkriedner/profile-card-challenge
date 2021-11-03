@@ -20,7 +20,7 @@ body {
     background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: top -45vh left -5vw, bottom -52vh right -7vw;
+    background-position: top -45vh left 2vw, bottom -52vh right 3vw;
     height: 100vh;
     display: flex;
     justify-content: center;
